@@ -1,0 +1,17 @@
+body{
+	background-color: #ccc;
+}
+
+.pagina{
+	width: 700px;
+	margin: 0 auto;
+}
+
+.lista{
+	font-family: verdana;
+	font-size: 20px;
+}
+
+.parrafo{
+	color: #a52a2a;
+}
